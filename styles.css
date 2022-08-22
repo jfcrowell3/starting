@@ -1,0 +1,90 @@
+body {
+  margin: 0 5%;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+section {
+  border: solid gray 2px;
+  padding: 10px 10px;
+  margin: 20px 0px;
+}
+
+.colorContainer {
+  text-align: center;
+}
+
+.colorBox {
+  width: 31%;
+  height: 8rem;
+  display: inline-block;
+  border: solid gray 2px;
+  margin-right: 6px;
+}
+
+.colorNames {
+  text-align: center;
+}
+
+.fontBox {
+  display: inline-block;
+  width: 30%;
+  height: 250px;
+  margin: 10px;
+}
+
+.fontName {
+  text-decoration: underline;
+}
+
+.font1 {
+  font-family: "Alumni Sans Pinstripe", sans-serif;
+  font-size: large;
+}
+
+.font2 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: large;
+}
+
+.font3 {
+  font-family: "Rubik Distressed", cursive;
+}
+
+.regular {
+  font-weight: 400;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 900;
+}
+
+#blue {
+  background-color: hsla(206, 100%, 80%, 0.923);
+}
+
+#green {
+  background-color: hsla(121, 100%, 80%, 0.923);
+}
+
+#pink {
+  background-color: hsla(328, 100%, 80%, 0.923);
+}
+
+#h1Style {
+  font-weight: 700;
+  font-size: 26px;
+}
+
+#h2Style {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+#pStyle {
+  font-weight: 400;
+  font-size: 14px;
+}
